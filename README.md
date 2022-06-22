@@ -5,4 +5,5 @@ Lezioni fatte da Luca
 ### Elenco
 
 - Funzioni complesse (20/06): [link](./20-06-22 - Complex Functions)
-- Array methods (21/06): [link](./21-06-22 - Array Methods)
+- Array map (21/06): [link](./21-06-22%20-%20Array%20Map)
+- Array filter, forEach, reduce && setTimeout (21/06): [link](./22-06-22%20-%20filter,%20forEach,%20reduce,%20setTimeout)
