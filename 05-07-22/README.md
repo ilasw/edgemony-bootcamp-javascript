@@ -91,7 +91,7 @@ const shop = {
      * con una struttura del genere 
      * <body>
      *  div.shop -> aggiornato ad ogni chiamata della funzione
-     *  div.paginatio -> questo non si tocca mai
+     *  div.pagination -> questo non si tocca mai
      * </body
      * e gestire la paginazione in modo separato, inserendo gli event listener una sola volta
      * **/
