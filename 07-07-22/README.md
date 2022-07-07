@@ -10,7 +10,7 @@ Scriviamo un'applicazione JavaScript che permetta di soddisfare i seguenti crite
 - Da utente voglio che dopo ogni submit il form si svuoti.
 - Da utente voglio poter segnare alcuni elementi come fatti cliccando sull'input.
 
-**_Possiamo sviluppare l'esercizo con qualunque approccio.**_
+_**Possiamo sviluppare l'esercizo con qualunque approccio.**_
 
 ### Bonus track (opzionale)
 - Da utente voglio poter vedere l'orario (ora:minuti) in cui è stata aggiunta una task. [Ref](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date?retiredLocale=it)
